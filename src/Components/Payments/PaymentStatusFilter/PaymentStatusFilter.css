@@ -1,0 +1,9 @@
+.paymentStatusFilter {
+    margin: 5px 0px;
+    float: right;
+}
+
+.filterLabel, .filterSelect, option{
+    padding: 5px;
+    font-weight: bold;
+}
